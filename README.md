@@ -96,7 +96,7 @@ mysql_database = 'my_text_database'
 Ensure that the values you provide are accurate, and remember to keep your database credentials secure. If you are unsure about your MySQL connection details, you may need to check with your hosting provider or database administrator.
 
 
-# Building a complete API and integrating machine learning involves several components and steps. I'll provide you with a simplified example that you can build upon. Note that this example includes the use of Flask for creating a simple API and scikit-learn for text preprocessing and clustering.
+## Building a complete API and integrating machine learning involves several components and steps. I'll provide you with a simplified example that you can build upon. Note that this example includes the use of Flask for creating a simple API and scikit-learn for text preprocessing and clustering.
 
 
 
