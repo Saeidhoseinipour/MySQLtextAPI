@@ -1,3 +1,10 @@
+
+[![](https://badgen.net/badge/BSD-2-Clause/license/green?icon=instgrame)]()
+[![](https://badgen.net/badge/MySQL/API/black?icon=instgrame)]()
+[![](https://badgen.net/badge/API/Websites/blue?icon=instgrame)]()
+[![](https://badgen.net/badge/API/Websites/blue?icon=instgrame)]()
+
+
 # MySQLtextAPI
 A step-by-step roadmap to create a real database for text data extracted from an API using Python and MySQL
 
